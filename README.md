@@ -125,5 +125,5 @@ To get the project running locally, follow these steps:
 
 ### End-to-End Testing
  ```bash
-npm run cypress
+  npm run cypress
   ```
