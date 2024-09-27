@@ -73,7 +73,7 @@ This project contains a collection of reusable frontend components designed for 
 
 ### Dark Mode Support
 
-Components are built with **Tailwind’s dark mode** in mind, ensuring a seamless transition between light and dark themes.
+- Components are built with **Tailwind’s dark mode** in mind, ensuring a seamless transition between light and dark themes.
 
 ## ✨ Features
 
