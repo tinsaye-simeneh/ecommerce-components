@@ -69,7 +69,7 @@ This project contains a collection of reusable frontend components designed for 
 
 ## 🎨 Customization
 
-All components are styled using **Tailwind CSS**, making them highly customizable by simply changing classes or extending styles via Tailwind’s configuration.
+- All components are styled using **Tailwind CSS**, making them highly customizable by simply changing classes or extending styles via Tailwind’s configuration.
 
 ### Dark Mode Support
 
