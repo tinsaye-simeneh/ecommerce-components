@@ -1,6 +1,3 @@
-Here’s the updated `README.md`:
-
----
 
 # E-commerce Frontend Components with Next.js & Tailwind CSS
 
