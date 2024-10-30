@@ -6,13 +6,13 @@ This project contains a collection of reusable frontend components designed for 
 ## 🚀 Tech Stack
 
 - **Next.js**: React framework for building server-rendered and statically generated websites.
+- **Shadcn UI**: A UI Framework
 - **Tailwind CSS**: Utility-first CSS framework for fast and flexible styling.
 - **TypeScript**: For type-safe and scalable JavaScript development.
 - **Framer Motion**: To add smooth animations and transitions to components.
-- **Headless UI** / **Radix UI**: Unstyled accessible components, easily customizable with Tailwind CSS.
+- **Radix UI**: Unstyled accessible components, easily customizable with Tailwind CSS.
 - **State Management**: **Redux Toolkit (RTK)** for managing global state.
 - **HTTP Requests**: **Axios** for making HTTP requests to interact with future backend services.
-- **Testing Tools**: **Jest**, **React Testing Library** for unit testing, and **Cypress** for end-to-end testing.
 
 ## 📦 Components Included
 
@@ -114,17 +114,3 @@ To get the project running locally, follow these steps:
    ```
 
    Open [http://localhost:3000](http://localhost:3000) to see your components in action.
-
-## 🧪 Testing
-
-### Unit Testing
-- **Jest** and **React Testing Library** are used for unit tests. You can run them with the following command:
-  ```bash
-  npm run test
-  ```
-
-### End-to-End Testing
-- **Cypress** is set up for end-to-end tests. To start Cypress tests, use:
-  ```bash
-  npm run cypress
-  ```
