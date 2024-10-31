@@ -96,11 +96,11 @@ export default function Home() {
           Made with ❤️ by{" "}
           <a
             className="text-blue-500"
-            href="https://twitter.com/saviomartin7"
+            href="https://github.com/tinsaye-simeneh"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Saviomartin
+            Tinsaye S. Dessie
           </a>
         </p>
       </footer>
