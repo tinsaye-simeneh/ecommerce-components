@@ -9,7 +9,6 @@ This project contains a collection of reusable frontend components designed for 
 - **Shadcn UI**: A UI Framework
 - **Tailwind CSS**: Utility-first CSS framework for fast and flexible styling.
 - **TypeScript**: For type-safe and scalable JavaScript development.
-- **Framer Motion**: To add smooth animations and transitions to components.
 - **Radix UI**: Unstyled accessible components, easily customizable with Tailwind CSS.
 - **State Management**: **Redux Toolkit (RTK)** for managing global state.
 - **HTTP Requests**: **Axios** for making HTTP requests to interact with future backend services.
