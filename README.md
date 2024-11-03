@@ -6,7 +6,7 @@ This project contains a collection of reusable frontend components designed for 
 ## 🚀 Tech Stack
 
 - **Next.js**: React framework for building server-rendered and statically generated websites.
-- **Shadcn UI**: A UI Framework
+- **Shadcn UI**: A UI Framework with a component based usage
 - **Tailwind CSS**: Utility-first CSS framework for fast and flexible styling.
 - **TypeScript**: For type-safe and scalable JavaScript development.
 - **Radix UI**: Unstyled accessible components, easily customizable with Tailwind CSS.
