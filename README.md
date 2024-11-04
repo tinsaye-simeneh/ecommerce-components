@@ -1,5 +1,5 @@
 
-# E-commerce Frontend Components with Next.js, shad-cn UI Tailwind CSS
+# E-commerce Frontend Components with Next.js, shad-cn Ui Tailwind CSS
 
 This project contains a collection of reusable frontend components designed for an e-commerce platform. Built using **Next.js** and **Tailwind CSS**, these components are designed to be flexible, responsive, and easy to integrate into any e-commerce website.
 
