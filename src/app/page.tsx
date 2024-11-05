@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen p-5 bg-gray-50">
       <Head>
-        <title>E-Commerce Frontend Components</title>
+        <title>E-Commerce Website Components</title>
         <meta
           name="description"
           content="Reusable frontend components for e-commerce platforms."
